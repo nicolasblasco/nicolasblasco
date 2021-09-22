@@ -3,4 +3,4 @@
 
 - 🔭 I’m currently working on [Noticia-Playstation-5-tutorial](https://github.com/nicolasblasco/Noticia-Playstation-5-tutorial)
 
-- 🌱 I’m currently learning **HTML**
+- 🌱 I’m currently learning **HTML & CSS**
