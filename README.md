@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicolas Blasco</h1>
 <h3 align="center">A student software developer from Argentina</h3>
 
-- 🔭 I’m currently working on **BaSD-MindSet**
+- 🔭 I’m collaborating on **BaSD-MindSet**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nicolasblasco?tab=repositories](https://github.com/nicolasblasco?tab=repositories)
 
