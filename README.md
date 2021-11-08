@@ -3,4 +3,4 @@
 
 - 🔭 I’m currently working on https://github.com/nicolasblasco/BaSD-Week-4.git
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **express.js**
