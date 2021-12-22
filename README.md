@@ -1,17 +1,3 @@
-Star this repo
-7834
-Fork on GitHub
-1610
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Nicolas Blasco</h1>
 <h3 align="center">A student software developer from Argentina</h3>
 
