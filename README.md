@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nicolas Blasco</h1>
 <h3 align="center">A student software developer from Argentina</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolasblasco&label=Profile%20views&color=0e75b6&style=flat" alt="nicolasblasco" /> </p>
 
 - 🔭 I’m currently collborating on **BaSD-Mindset**
 
